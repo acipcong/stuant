@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+
+    <integer name="login_default_header_title_size">32</integer>
+    <integer name="login_slide_in_header_title">24</integer>
+</resources>

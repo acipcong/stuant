@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/footer_container">
+
+    <Button
+        android:id="@+id/secondary_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/colorPrimary"
+        android:background="@drawable/secondary_round_button"
+        android:text="Sign Up" />
+
+    <Button
+        android:id="@+id/primary_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/primary_round_button"
+        android:text="Log In" />
+
+
+
+</LinearLayout>

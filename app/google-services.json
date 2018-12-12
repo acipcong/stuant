@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457110085754",
+    "firebase_url": "https://stuant-11b3e.firebaseio.com",
+    "project_id": "stuant-11b3e",
+    "storage_bucket": "stuant-11b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457110085754:android:fcbc4ffbf7378d43",
+        "android_client_info": {
+          "package_name": "management.stuant.com.stuant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457110085754-2b5qoqcitd5i94knmjgdo7jb2psl2uid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "management.stuant.com.stuant",
+            "certificate_hash": "533a4dbc5691b1a66fb3a594570a25307bfbda7c"
+          }
+        },
+        {
+          "client_id": "457110085754-gkg39dnbpiguiu6csrfjfqhd4ne1q9ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIumBLyMb-STgIu4c6-qKlx3eSD4yUwDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457110085754-gkg39dnbpiguiu6csrfjfqhd4ne1q9ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

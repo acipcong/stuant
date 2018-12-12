@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Home"/>
+
+    <!--TODO replace with appropriate images-->
+    <item android:id="@+id/studentRegistration"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Student Registration"/>
+
+    <item android:id="@+id/billing"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Billing"/>
+
+    <item android:id="@+id/programRegistration"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Program Registration"/>
+
+    <item android:id="@+id/studentDetails"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Student Details"/>
+
+    <item android:id="@+id/timeTable"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Time Table"/>
+
+    <item android:id="@+id/announcements"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Announcements"/>
+
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stuant</string>
+    <string name="google_maps_key">AIzaSyBrsj2pIe4XC0ym1_yMdv8HXTDmOsoeucQ</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="welcom_message_sign_in">A better app for better Management.</string>
+    <string name="slide_in_message">Sign in for managing your school.</string>
+</resources>

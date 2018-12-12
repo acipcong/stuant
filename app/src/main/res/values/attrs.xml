@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+    <declare-styleable name="SlidingHeaderContainer">
+        <attr name="shc_defaultText" format="string"/>
+        <attr name="shc_slidingInText" format="string"/>
+        <attr name="shc_defaultHeaderTextSize" format="integer"/>
+        <attr name="shc_slideInHeaderTextSize" format="integer"/>
+        <attr name="shc_defaultTextColor" format="color"/>
+        <attr name="shc_slidingInTextColor" format="color"/>
+    </declare-styleable>
+</resources>
